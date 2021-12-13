@@ -32,10 +32,10 @@ $ python jadwalwaktu.py
 
 ## FOLLOW SOSMED ME!
 
-('WhatsApp')[`085821676621`]
-('Github me')[`github.com/rhmn8`]
-('Instagram')[`https://www.instagram.com/@rahman_nayyers`]
-('YouTube me')[`https://bit.ly/AuliaRahmanOfficialYT`]
+(`WhatsApp`)(https://wa.me/6285821676621)
+(`Github me`)(https://github.com/rhmn8)
+(`Instagram`)(https://www.instagram.com/@rahman_nayyers)
+(`YouTube me`)(https://bit.ly/AuliaRahmanOfficialYT)
 
 
 
