@@ -22,6 +22,10 @@ $ pkg install upgrade
 
 $ pkg install git
 
+$ pip install request
+
+$ pip install bs4
+
 $ git clone https://github.com/Rhmn8/waktusholat
 
 $ cd waktusholat
